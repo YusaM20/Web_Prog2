@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "judul": "Belajar Pemrograman Web dengan PHP",
+      "penulis": "John Doe",
+      "status": "Tersedia"
+    },
+    {
+      "id": 2,
+      "judul": "Panduan Membuat Desain Web Modern",
+      "penulis": "Jane Smith",
+      "status": "Dipinjam"
+    },
+    {
+      "id": 3,
+      "judul": "Memahami Jaringan Komputer",
+      "penulis": "Michael Lee",
+      "status": "Tersedia"
+    },
+    {
+      "id": 4,
+      "judul": "Dasar-Dasar Bahasa Pemrograman Python",
+      "penulis": "Alice Young",
+      "status": "Dipinjam"
+    },
+    {
+      "id": 5,
+      "judul": "Menguasai Teknik SEO",
+      "penulis": "David Kim",
+      "status": "Tersedia"
+    }
+  ]
+  
